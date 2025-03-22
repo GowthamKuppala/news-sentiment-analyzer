@@ -148,10 +148,6 @@ The application follows a modular architecture:
 - Add historical data tracking and trend analysis
 - Improve topic clustering and extraction algorithms
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - NLTK, SpaCy, and TextBlob for NLP capabilities
