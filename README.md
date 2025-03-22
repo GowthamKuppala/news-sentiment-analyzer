@@ -1,13 +1,3 @@
----
-title: News Sentiment Analyzer
-emoji: 📰
-colorFrom: blue
-colorTo: indigo
-sdk: streamlit
-sdk_version: "1.26.0"
-app_file: app.py
-pinned: false
----
 
 # News Sentiment Analyzer with Multilingual TTS
 
@@ -154,3 +144,14 @@ The application follows a modular architecture:
 - Google Text-to-Speech for multilingual TTS
 - Streamlit for the web interface
 - BeautifulSoup for web scraping
+
+---
+title: News Sentiment Analyzer
+emoji: 📰
+colorFrom: blue
+colorTo: indigo
+sdk: streamlit
+sdk_version: "1.26.0"
+app_file: app.py
+pinned: false
+---
